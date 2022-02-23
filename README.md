@@ -12,8 +12,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" left="80" /> </a>
 <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" left="80" /> </a>
-  <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="nextjs" width="40" height="40" left="80" /> </a>
-   <img src="https://nextjs.org" target="_blank"> 
+  <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="nextjs" width="40" height="40" left="80" /> 
+<a href="https://nextjs.org/" target="_blank"> </a>
 <!--   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cs" width="40" height="40"/> </a> -->
