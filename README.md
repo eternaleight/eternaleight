@@ -13,7 +13,7 @@
    <a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="40" height="40" left="80" /> </a>
    <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="tmux" width="50" height="40" left="80" /> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="tmux" width="40" height="40" left="80" /> </a>
   <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" left="80" /> </a>
  
