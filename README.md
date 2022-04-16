@@ -17,7 +17,7 @@
       <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/8jqiY7l.png" alt="docker" width="45" height="40" left="80" /> </a>
   <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="38" height="38" left="80" /> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" left="80" /> </a>
   
  
 <!--   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
