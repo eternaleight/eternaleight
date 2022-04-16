@@ -12,7 +12,7 @@
 <img src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" alt="java" width="40" height="40" left="80" /> </a>
    <a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="40" height="40" left="80" /> </a>
-   <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
+   <a href="https://sass-lang.com/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="scss" width="40" height="40" left="80" /> </a>
       <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/8jqiY7l.png" alt="docker" width="45" height="40" left="80" /> </a>
