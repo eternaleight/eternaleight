@@ -15,7 +15,7 @@
    <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
    <a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/rmEmnXj.png" alt="redux" width="41" height="38" /></a>
+<img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>
    <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" /></a>
   
