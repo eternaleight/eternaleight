@@ -12,10 +12,11 @@
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="40" height="40" /></a>
    <a href="https://sass-lang.com/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="scss" width="40" height="40" /></a>
-      <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a> <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
+   <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
+   <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" /></a>
- <a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
+   <a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/MWK9xnP.png" alt="redux" width="43" height="40" /></a>
   
 <!-- <p align="left"> -->
