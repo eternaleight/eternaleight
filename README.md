@@ -1,11 +1,13 @@
 ### Skill & Tools
 
-   <a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
+   <a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
+<img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
    <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
    <a href="https://neovim.io/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png?20150131093814" alt="neovim" width="30" height="40" /></a>
-   <a href="https://reactjs.org/" target="_blank" rel=”noopener”><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+   <a href="https://reactjs.org/" target="_blank" rel=”noopener”>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
    <a href="https://nextjs.org/" target="_blank" rel=”noopener”> 
 <img src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" alt="java" width="40" height="40" /></a>
    <a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> 
