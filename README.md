@@ -18,8 +18,12 @@
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
    <a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>
-   <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
+ <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" /></a>
+   <a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" alt="tmux" width="40" height="40" /></a>
+ <a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="tmux" width="60" height="40" /></a>
   
 <!-- <p align="left"> -->
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> -->
