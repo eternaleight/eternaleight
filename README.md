@@ -1,8 +1,13 @@
 ### Skill & Tools
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-   <a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
+<a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>
+<a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
+<a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" alt="monogodb" width="40" height="40" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
 <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
    <a href="https://neovim.io/" target="_blank" rel=”noopener”> 
@@ -10,21 +15,16 @@
    <a href="https://reactjs.org/" target="_blank" rel=”noopener”>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
    <a href="https://nextjs.org/" target="_blank" rel=”noopener”> 
-<img src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" alt="java" width="40" height="40" /></a>
+<img src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" alt="nextjs" width="40" height="40" /></a>
    <a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="40" height="40" /></a>
    <a href="https://sass-lang.com/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="scss" width="40" height="40" /></a>
    <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
-   <a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>
  <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" /></a>
-   <a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" alt="tmux" width="40" height="40" /></a>
- <a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="tmux" width="60" height="40" /></a>
+ 
   
 <!-- <p align="left"> -->
 
