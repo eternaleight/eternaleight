@@ -1,10 +1,13 @@
 ### Skill & Tools
+
 <a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>
 <a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
 <a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" alt="monogodb" width="40" height="40" /></a>
+<a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/DhItfPT.png" alt="redux" width="56" height="38" /></a>
 <a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
 <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -25,9 +28,8 @@
  <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" /></a>
  
-  
-<!-- <p align="left"> -->
 
+<!-- <p align="left"> -->
 <!--   <a href="https://go.dev/" target="_blank" rel=”noopener”> 
 <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="go" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -35,7 +37,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cs" width="40" height="40"/> </a> -->
 <!--   <a href="https://www.cprogramming.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> -->
-<!--    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="40" height="40"/> </a> -->
-<!--<a href="https://www.python.org/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a>
-</p>
+<!--    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="40" height="40"/> </a> --><!--<a href="https://www.python.org/" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/></a></p>
