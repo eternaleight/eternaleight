@@ -27,7 +27,16 @@
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
  <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" /></a>
- 
+<br>
+<br>
+
+ <p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternaleight&layout=compact&count_private=true&show_icons=true&theme=nord&bg_color=0D1116&border_color=334&border_radius=0" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eternaleight&count_private=true&show_icons=true&show_icons=true&theme=nord&bg_color=0D1116&border_color=334&border_radius=0" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eternaleight&theme=dark_dimmed&column=7&no-bg=true&no-frame=true
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <p align="left"> -->
 <!--   <a href="https://go.dev/" target="_blank" rel=”noopener”> 
