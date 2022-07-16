@@ -27,7 +27,7 @@
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
  <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" /></a>
-<br>
+<!-- <br>
 <br>
 
  <p align="left"> 
@@ -35,7 +35,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eternaleight&theme=dark_dimmed&column=7&no-bg=true&no-frame=true
-)](https://github.com/ryo-ma/github-profile-trophy)
+)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- <p align="left"> -->
 <!--   <a href="https://go.dev/" target="_blank" rel=”noopener”> 
