@@ -31,8 +31,7 @@
 <br>
 
  <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternaleight&layout=compact&count_private=true&show_icons=true&theme=nord&bg_color=0D1116&border_color=334&border_radius=0" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eternaleight&count_private=true&show_icons=true&show_icons=true&theme=nord&bg_color=0D1116&border_color=334&border_radius=0" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eternaleight&count_private=true&show_icons=true&show_icons=true&theme=nord&bg_color=0D1116&border_color=334" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eternaleight&theme=dark_dimmed&column=7&no-bg=true&no-frame=true
