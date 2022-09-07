@@ -16,7 +16,7 @@
    <a href="https://reactjs.org/" target="_blank" rel=”noopener”>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
    <a href="https://nextjs.org/" target="_blank" rel=”noopener”> 
-<img src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" alt="nextjs" width="40" height="40" /></a>
+<img src="https://i.imgur.com/4eZ8vMx.png" alt="nextjs" width="40" height="40" /></a>
    <a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="40" height="40" /></a>
    <a href="https://sass-lang.com/" target="_blank" rel=”noopener”> 
