@@ -1,9 +1,3 @@
-### My Works Site
-https://black-hp.vercel.app/
-
-<img src="https://user-images.githubusercontent.com/96198088/195066357-8eebbdfb-5718-4273-8e79-f7b5917416ed.png" width="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 ### Skill & Tools
 
 <a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
