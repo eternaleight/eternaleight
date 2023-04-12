@@ -30,7 +30,17 @@
 <a href="https://aws.amazon.com/jp/s3/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/yBz8I8z.png" alt="docker" width="35" height="40" /></a>
  <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Tmux.png" alt="tmux" width="40" height="40" /></a>
+  
+### My HandBook
+  #### VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (4/12 出版)
+
+Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
+  
+
+
+
+  
+
 <!-- <br>
 <br>
 
