@@ -35,6 +35,8 @@
   #### VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (4/12 出版)
 
 Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
+
+cusutom-holo-app https://github.com/eternaleight/custom-holo-app
   
 
 
