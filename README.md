@@ -1,4 +1,4 @@
-### Skill & Tools
+## Skill & Tools
 
 <a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
@@ -31,13 +31,9 @@
 <img src="https://i.imgur.com/yBz8I8z.png" alt="docker" width="35" height="40" /></a>
  <a href="https://ja.wikipedia.org/wiki/Tmux" target="_blank" rel=”noopener”> 
   
-### My HandBook
+## My HandBook
   #### VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (4/12 出版)
-
 Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
-
-cusutom-holo-app https://github.com/eternaleight/custom-holo-app
-  
 
 
 
