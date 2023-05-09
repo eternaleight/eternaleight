@@ -28,16 +28,19 @@
    <a href="https://sass-lang.com/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="scss" width="40" height="40" /></a>
 
+<a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>
+
 
 <a href="https://aws.amazon.com/jp/s3/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/yBz8I8z.png" alt="docker" width="35" height="40" /></a>
 
    <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
-<a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://imgur.com/26FImOK.png" alt="cplusplus" width="35" height="40"/></a>
+
+<!-- <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://imgur.com/26FImOK.png" alt="cplusplus" width="35" height="40"/></a>-->
+  
 <a href="https://www.unrealengine.com/ja/unreal-engine-5" target="_blank" rel=”noopener”>
 <img src="https://i.imgur.com/ubpIVxz.png" alt="ue5" width="50" height="40" /></a>
 
