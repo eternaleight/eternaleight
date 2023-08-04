@@ -12,11 +12,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+<!--  <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="35" height="40"/></a>
  <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
 <img src="" width="0" height="40"/></a>
-<!-- <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
+ <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
 <img src="https://github.com/eternaleight/eternaleight/assets/96198088/2ec77d81-6dd3-4d75-acff-844b3b7cfd60" alt="cs" width="35" height="40"/>
  <a href="https://www.cprogramming.com/" target="_blank"> 
 <img src="https://i.imgur.com/72g3zfk.png" alt="c++" width="43" height="36"/></a> -->
