@@ -6,11 +6,11 @@
 <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="56" height="38" /></a>
 
-<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
+<a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
 
-<a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/ub0CMwB.png" alt="postgrsql" width="33" height="38" /></a>
+<a href="https://www.prisma.io" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/ub0CMwB.png" alt="prisma" width="33" height="38" /></a>
 
 <a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/fbhehfw.png" alt="monogodb" width="40" height="40" /></a>
