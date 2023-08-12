@@ -4,14 +4,33 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
 <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="56" height="38" /></a>
+
+
+
+<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
+
+
+ <a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/ub0CMwB.png" alt="postgrsql" width="33" height="38" /></a>
+
+
+
 <a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/fbhehfw.png" alt="monogodb" width="40" height="40" /></a>
+
+
+
+
 
 <a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
 <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+
+<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
 <!--  <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="35" height="40"/></a>
  <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
@@ -35,6 +54,13 @@
    <a href="https://nextjs.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/xRPAKSY.png" alt="nextjs" width="40" height="40" /></a>
 
+
+
+<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/72g3zfk.png" alt="flutter" width="45" height="37" /></a>
+
+
+
  
    <a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="40" height="40" /></a>
@@ -47,6 +73,7 @@
 
 <a href="https://aws.amazon.com/jp/s3/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/yBz8I8z.png" alt="docker" width="35" height="40" /></a>
+
 
    <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
