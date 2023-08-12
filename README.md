@@ -22,8 +22,8 @@
 <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
 <img src="" width="0" height="40"/></a>
 
-<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
+<!-- <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a> -->
 
 <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
