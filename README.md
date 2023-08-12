@@ -56,8 +56,8 @@
 
 
 
-<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/72g3zfk.png" alt="flutter" width="45" height="37" /></a>
+<!-- <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/72g3zfk.png" alt="flutter" width="45" height="37" /></a> -->
 
 
 
