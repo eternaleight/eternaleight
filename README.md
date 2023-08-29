@@ -88,13 +88,13 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 \- TypeScript, Next.js
 
-\- デプロイ: Cloudflare Pages, Vercel, AWS CroudFront
+デプロイ: Cloudflare Pages, Vercel, AWS CroudFront
 
 バックエンド:
 
 \- Go (Gin, Gorm),  Node.js (Express, Prisma)
 
-\- デプロイ: Cloudflare Workers, AWS Lambda, Google Cloud Run
+デプロイ: Cloudflare Workers, AWS Lambda, Google Cloud Run
 
 データベース:
 
