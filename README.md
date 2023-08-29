@@ -106,7 +106,7 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 画像最適化:
 
-\- Cloudflare Workers KV / Cashe, Amazon ElastiCache for Redis
+\- Cloudflare Workers KV, Amazon ElastiCache for Redis
 
 画像配信、ストレージ:
 
