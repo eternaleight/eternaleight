@@ -104,7 +104,7 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 \- Stripe
 
-画像最適化、サーバーセッション:
+サーバーセッション、画像のキャッシュ:
 
 \- Cloudflare Workers KV, Amazon ElastiCache
 
