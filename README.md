@@ -1,5 +1,8 @@
 ### Skill & Tools
 
+<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+<img src="" width="0" height="40"/></a> 
+
 <a href="https://go.dev/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
 
@@ -31,9 +34,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a> 
-
-<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-<img src="" width="0" height="40"/></a> 
 
 <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
