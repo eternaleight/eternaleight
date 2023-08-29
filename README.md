@@ -1,13 +1,22 @@
 ### Skill & Tools
 
+<a href="https://go.dev/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
+
+<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+<img src="" width="0" height="40"/></a> 
+
+<a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
+
 <a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
 
 <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="56" height="38" /></a>
+<img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="55" height="37" /></a>
 
-<a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
+<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+<img src="" width="0" height="40"/></a> 
 
 <a href="https://www.prisma.io" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/ub0CMwB.png" alt="prisma" width="33" height="38" /></a>
@@ -16,14 +25,15 @@
 <img src="https://i.imgur.com/fbhehfw.png" alt="monogodb" width="40" height="40" /></a>
 
 <a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
-<img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+<img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a> 
 
 <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-<img src="" width="0" height="40"/></a>
-
-<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
+<img src="" width="0" height="40"/></a> 
 
 <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
@@ -39,11 +49,12 @@
 
 <a href="https://neovim.io/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png?20150131093814" alt="neovim" width="30" height="40" /></a>
+
 <a href="https://reactjs.org/" target="_blank" rel=”noopener”>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 
 <a href="https://nextjs.org/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/xRPAKSY.png" alt="nextjs" width="40" height="40" /></a>
+<img src="https://i.imgur.com/xRPAKSY.png" alt="nextjs" width="41" height="41" /></a>
 
 <!-- <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/72g3zfk.png" alt="flutter" width="45" height="37" /></a> -->
@@ -65,6 +76,9 @@
 
 <!-- <a href="https://www.w3schools.com/cpp/" target="_blank">
   <img src="https://imgur.com/26FImOK.png" alt="cplusplus" width="35" height="40"/></a>-->
+
+<a href="https://www.cloudflare.com/ja-jp/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/LmqkD0F.png" alt="cloudflare" width="40" height="40" /></a>
   
 <a href="https://www.unrealengine.com/ja/unreal-engine-5" target="_blank" rel=”noopener”>
 <img src="https://i.imgur.com/ubpIVxz.png" alt="ue5" width="50" height="40" /></a>
