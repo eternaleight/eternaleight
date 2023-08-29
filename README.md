@@ -79,15 +79,52 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 
 
-<!-- <br>
 <br>
 
- <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eternaleight&count_private=true&show_icons=true&show_icons=true&theme=nord&bg_color=0D1116&border_color=334" />
+[個人開発で作る時の構成]
+\
+\
+フロントエンド:
+
+\- TypeScript, Next.js
+
+\- デプロイ: Cloudflare Pages, Vercel, AWS CroudFront
+
+バックエンド:
+
+\- Go (Gin, Gorm),  Node.js (Express, Prisma)
+
+\- デプロイ: Cloudflare Workers, AWS Lambda, Google Cloud Run
+
+データベース:
+
+\- Supabase (PostgreSQL)
+
+決済:
+
+\- Stripe
+
+画像最適化:
+
+\- Cloudflare Workers KV / Cashe, Amazon ElastiCache for Redis
+
+画像配信、ストレージ:
+
+\-  Cloudflare R2 / Images, Amazon S3, Google Cloud Storage
+
+
+
+<!--
+
+<br>
+<br>
+
+<p align="left"> 
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eternaleight&count_private=true&show_icons=true&show_icons=true&theme=nord&bg_color=0D1116&border_color=334" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eternaleight&theme=dark_dimmed&column=7&no-bg=true&no-frame=true
-)](https://github.com/ryo-ma/github-profile-trophy) -->
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <p align="left"> -->
 <!--   
