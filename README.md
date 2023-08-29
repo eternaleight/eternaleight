@@ -104,11 +104,11 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 \- Stripe
 
-サーバーセッション、画像最適化:
+画像最適化、サーバーセッション:
 
 \- Cloudflare Workers KV, Amazon ElastiCache
 
-オブジェクトストレージ、画像配信:
+画像配信、オブジェクトストレージ:
 
 \-  Cloudflare R2 / Images, Amazon S3, Google Cloud Storage
 
