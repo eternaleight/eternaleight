@@ -108,7 +108,7 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 \- Go (Gin, Gorm),  Node.js (Express, Prisma)
 
-デプロイ: Google Cloud Run、AWS Lambda
+デプロイ: Google Cloud Run, AWS Lambda
 
 データベース:
 
