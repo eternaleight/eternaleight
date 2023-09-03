@@ -120,7 +120,7 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 サーバーセッション、画像のキャッシュ:
 
-\- Cloudflare Workers KV, Amazon ElastiCache
+\- Cloudflare Workers KV
 
 画像配信、オブジェクトストレージ:
 
