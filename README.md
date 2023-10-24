@@ -28,12 +28,10 @@
 <img src="https://i.imgur.com/fbhehfw.png" alt="monogodb" width="40" height="40" /></a>
 
 <a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
-<img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" />
-</a>
+<img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 
 <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
@@ -68,14 +66,19 @@
 <a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>
 
+
+
 <a href="https://aws.amazon.com/jp/s3/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/yBz8I8z.png" alt="docker" width="35" height="40" /></a>
+<img src="https://i.imgur.com/yBz8I8z.png" alt="docker" width="34" height="39" /></a>
 
 <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
 
 <!-- <a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://imgur.com/26FImOK.png" alt="cplusplus" width="35" height="40"/></a>-->
+<img src="https://imgur.com/26FImOK.png" alt="cplusplus" width="35" height="40"/></a>-->
+
+<a href="https://registry.terraform.io/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/y2azS7x.png" alt="terraform" width="41" height="41" /></a>
 
 <a href="https://www.cloudflare.com/ja-jp/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/LmqkD0F.png" alt="cloudflare" width="40" height="40" /></a>
@@ -98,6 +101,10 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 [個人開発で作る時の構成]
 \
 \
+CDN:
+
+\- Cloudflare
+
 フロントエンド:
 
 \- TypeScript, Next.js
@@ -106,7 +113,7 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 バックエンド:
 
-\- Go (Gin, Gorm),  Node.js (Express, Prisma)
+\- Go (Gin, Gorm), Node.js (Express, Prisma), Cloudflare Workers
 
 デプロイ: Google Cloud Run, AWS Lambda
 
@@ -118,7 +125,7 @@ Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 \- Stripe
 
-サーバーセッション、画像のキャッシュ:
+サーバーセッション:
 
 \- Cloudflare Workers KV
 
