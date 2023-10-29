@@ -89,14 +89,17 @@
 ### Article
 **個人開発でTerraformを使ったCloudflare R2とCloud Run（コスト最小限のコンテナ設定）の効率的なデプロイ**
 
-Zenn
+Zenn 
+\
 https://zenn.dev/eternaleight/articles/999ff2535aa66f
  
   
 ### My HandBook
 **VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (4/12 出版)**
 
-Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
+Zenn 
+\
+https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 
 
