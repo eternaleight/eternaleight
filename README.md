@@ -87,13 +87,15 @@
 <img src="https://i.imgur.com/ubpIVxz.png" alt="ue5" width="50" height="40" /></a>
 
 ### Article
-#### 個人開発でTerraformを使ったCloudflare R2とCloud Run（コスト最小限のコンテナ設定）の効率的なデプロイ
+**個人開発でTerraformを使ったCloudflare R2とCloud Run（コスト最小限のコンテナ設定）の効率的なデプロイ**
+
 Zenn
 https://zenn.dev/eternaleight/articles/999ff2535aa66f
  
   
 ### My HandBook
-  #### VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (4/12 出版)
+**VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (4/12 出版)**
+
 Zenn https://zenn.dev/eternaleight/books/fedd5f1ce2f9fc
 
 
