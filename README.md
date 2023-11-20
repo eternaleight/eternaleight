@@ -83,8 +83,8 @@
 <a href="https://www.cloudflare.com/ja-jp/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/LmqkD0F.png" alt="cloudflare" width="40" height="40" /></a>
   
-<!-- <a href="https://stripe.com/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/6Xbrpc5.png" alt="cloudflare" width="66" height="38" /></a> -->
+<a href="https://stripe.com/" target="_blank" rel=”noopener”> 
+<img src="https://i.imgur.com/6Xbrpc5.png" alt="cloudflare" width="66" height="38" /></a>
 
 <a href="https://www.unrealengine.com/ja/unreal-engine-5" target="_blank" rel=”noopener”>
 <img src="https://i.imgur.com/ubpIVxz.png" alt="ue5" width="50" height="40" /></a>
