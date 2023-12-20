@@ -144,7 +144,7 @@ CDN:
 
 \- Cloudflare Workers KV
 
-画像配信、オブジェクトストレージ:
+オブジェクトストレージ:
 
 \-  Cloudflare R2 / Images, Amazon S3, Google Cloud Storage
 
