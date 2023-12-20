@@ -136,15 +136,11 @@ CDN:
 
 \- Stripe
 
-メール配信:
-
-\- Resend
-
 サーバーセッション:
 
 \- Cloudflare Workers KV
 
-オブジェクトストレージ:
+画像配信, オブジェクトストレージ:
 
 \-  Cloudflare R2 / Images, Amazon S3, Google Cloud Storage
 
