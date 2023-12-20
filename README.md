@@ -136,6 +136,10 @@ CDN:
 
 \- Stripe
 
+メール配信:
+
+\- Resend
+
 サーバーセッション:
 
 \- Cloudflare Workers KV
