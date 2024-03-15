@@ -140,13 +140,13 @@ CDN:
 
 \- Cloudflare Workers KV
 
-メール配信:
-
-\- Resend
-
 ジョブスケジューラ:
 
 \- Google Cloud Scheduler, Cloudflare Workers
+
+メール配信:
+
+\- Resend
 
 画像配信, オブジェクトストレージ:
 
