@@ -95,10 +95,15 @@
 Zenn 
 \
 https://zenn.dev/eternaleight/articles/999ff2535aa66f
- 
+
+**Cloudflare Workersを使って定期的なタスク自動化を実質無料で行う（不要な画像、アカウントの定期削除など）**
+
+Zenn 
+\
+https://zenn.dev/eternaleight/articles/6c2d11001e39fd
   
 ### My HandBook
-**VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (4/12 出版)**
+**VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (2023/4/12 出版)**
 
 Zenn 
 \
