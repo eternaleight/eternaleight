@@ -129,9 +129,9 @@ CDN:
 
 バックエンド:
 
-\- Go (Gin, Gorm), Node.js (Express, Prisma), Cloudflare Workers
+\- Go (Gin, Gorm), Cloudflare Workers
 
-デプロイ: Google Cloud Run, AWS Lambda
+デプロイ: Google Cloud Run
 
 データベース:
 
@@ -145,9 +145,9 @@ CDN:
 
 \- Cloudflare Workers KV
 
-ジョブスケジューラ:
+ジョブスケジューラ (cron):
 
-\- Google Cloud Scheduler, Cloudflare Workers
+\- Cloudflare Workers, Google Cloud Scheduler
 
 メール配信:
 
@@ -155,7 +155,7 @@ CDN:
 
 画像配信, オブジェクトストレージ:
 
-\-  Cloudflare R2 / Images, Amazon S3, Google Cloud Storage
+\-  Cloudflare R2, Google Cloud Storage
 
 
 <!--
