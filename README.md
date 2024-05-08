@@ -96,10 +96,6 @@ Zenn
 \
 https://zenn.dev/eternaleight/articles/999ff2535aa66f
 
-Repository (run-2)
-\
-https://github.com/eternaleight/run-2
-
 **Cloudflare Workersを使って定期的なタスク自動化を実質無料で行う（不要な画像、アカウントの定期削除など）**
 
 Zenn 
