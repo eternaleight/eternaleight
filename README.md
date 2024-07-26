@@ -89,7 +89,27 @@
 <a href="https://www.unrealengine.com/ja/unreal-engine-5" target="_blank" rel=”noopener”>
 <img src="https://i.imgur.com/ubpIVxz.png" alt="ue5" width="50" height="40" /></a>
 
-### Article
+
+### DevTuto（開発中 β版先行ユーザー登録可能 随時募集中 2024/07/26）
+Unreal Engine / Unity / Blender / Maya ... など
+ゲーム開発者,3Dモデラー,アプリケーション開発,ゲーム制作関連の開発者が手軽に自分の開発知識,チュートリアルを投稿できる個人ゲーム開発者のWebサイトDeveloper Tutorial
+
+<div style="display: flex; justify-content: space-around;">
+ <a href="https://devtuto.com/" target="_blank" rel=”noopener”>
+  <img src="https://api.devtuto.com/v1/images/7acf696e22bd9be7-20240726.webp" alt="Developer Tutorial 開発者" width="500">
+ </div>
+  
+https://devtuto.com
+
+### UE5開発（DevTutoを使いながらyoutubeにゲーム開発チュートリアルを投稿していく予定）
+<a href="https://youtu.be/oOwkPM91-j0?si=MrVhmUXw5oxEkfaq" target="_blank" rel=”noopener”>
+<img src="https://api.devtuto.com/v1/images/82e8f488982960a1-20240705.webp" alt="Developer Tutorial 開発者" width="500">
+ 
+https://www.youtube.com/@initialcommit0
+
+### Article（自分の開発で役立っているもの、コスト削減になるもの、需要がありそうなものがあったら投稿しています）
+
+
 **個人開発でTerraformを使ったCloudflare R2とCloud Run（コスト最小限のコンテナ設定）の効率的なデプロイ**
 
 Zenn 
@@ -101,7 +121,7 @@ https://zenn.dev/eternaleight/articles/999ff2535aa66f
 Zenn 
 \
 https://zenn.dev/eternaleight/articles/6c2d11001e39fd
-  
+
 ### My HandBook
 **VTuberアプリケーション開発の基本　基礎から始めるアプリケーション開発のステップ (2023/4/12 出版)**
 
