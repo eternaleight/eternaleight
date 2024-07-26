@@ -96,12 +96,19 @@ Unreal Engine / Unity / Blender / Maya ... など
 
 <div style="display: flex; justify-content: space-around;">
  <a href="https://devtuto.com/" target="_blank" rel=”noopener”>
-  <img src="https://api.devtuto.com/v1/images/7acf696e22bd9be7-20240726.webp" alt="Developer Tutorial 開発者" width="500">
+  <img src="https://api.devtuto.com/v1/images/7acf696e22bd9be7-20240726.webp" alt="Developer Tutorial 開発者" width="400">
 </div>
   
 https://devtuto.com
 
-### Article
+
+### UE5開発（DevTutoを使いながらyoutubeにゲーム開発チュートリアルを投稿していく予定）
+<a href="https://youtu.be/oOwkPM91-j0?si=MrVhmUXw5oxEkfaq" target="_blank" rel=”noopener”>
+<img src="https://api.devtuto.com/v1/images/82e8f488982960a1-20240705.webp" alt="Developer Tutorial 開発者" width="400">
+ 
+https://www.youtube.com/@initialcommit0
+
+### Article（自分の開発で役立っているもの、コスト削減になるもの、需要がありそうなものがあったら投稿しています）
 
 **個人開発でTerraformを使ったCloudflare R2とCloud Run（コスト最小限のコンテナ設定）の効率的なデプロイ**
 
@@ -170,11 +177,6 @@ CDN:
 
 \-  Cloudflare R2, Google Cloud Storage
 
-### UE5開発（DevTutoを使いながらyoutubeにゲーム開発チュートリアルを投稿していく予定）
-<a href="https://youtu.be/oOwkPM91-j0?si=MrVhmUXw5oxEkfaq" target="_blank" rel=”noopener”>
-<img src="https://api.devtuto.com/v1/images/82e8f488982960a1-20240705.webp" alt="Developer Tutorial 開発者" width="500">
- 
-https://www.youtube.com/@initialcommit0
 
 
 <!--
