@@ -90,7 +90,7 @@
 <img src="https://i.imgur.com/ubpIVxz.png" alt="ue5" width="50" height="40" /></a>
 
 
-### Article（自分の開発で役立っているもの、コスト削減になるもの、需要がありそうなものがあったら投稿しています）
+### Article
 
 
 **個人開発でTerraformを使ったCloudflare R2とCloud Run（コスト最小限のコンテナ設定）の効率的なデプロイ**
