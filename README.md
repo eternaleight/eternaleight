@@ -96,7 +96,7 @@ Unreal Engine / Unity / Blender / Maya ... など
 
 <div style="display: flex; justify-content: space-around;">
  <a href="https://devtuto.com/" target="_blank" rel=”noopener”>
-  <img src="https://api.devtuto.com/v1/images/7acf696e22bd9be7-20240726.webp" alt="Developer Tutorial 開発者" width="400">
+  <img src="https://github.com/user-attachments/assets/de7d6015-1953-4c47-9761-ed6860504cc6" alt="Developer Tutorial 開発者" width="400">
 </div>
   
 https://devtuto.com
@@ -106,9 +106,10 @@ https://devtuto.com
 DevTutoを使いながらyoutubeにゲーム開発チュートリアルを投稿していく予定
 
 <a href="https://youtu.be/oOwkPM91-j0?si=MrVhmUXw5oxEkfaq" target="_blank" rel=”noopener”>
-<img src="https://api.devtuto.com/v1/images/82e8f488982960a1-20240705.webp" alt="Developer Tutorial 開発者" width="400">
+<img src="https://github.com/user-attachments/assets/87bd2f4b-f008-4a62-a823-a86ac79f52ea" alt="Developer Tutorial 開発者" width="400">
  
-https://www.youtube.com/@initialcommit0
+
+
 
 ### Article
 
