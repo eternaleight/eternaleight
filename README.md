@@ -98,8 +98,14 @@ Unreal Engine / Unity / Blender / Maya ... など
  <a href="https://devtuto.com/" target="_blank" rel=”noopener”>
   <img src="https://github.com/user-attachments/assets/de7d6015-1953-4c47-9761-ed6860504cc6" alt="Developer Tutorial 開発者" width="400">
 </div>
-  
+
 https://devtuto.com
+
+**開発時間3000時間以上 個人ゲーム開発者向けCtoCプラットフォームの技術構成**
+
+DevTuto
+\
+https://devtuto.com/u/eternaleight/articles/ee336cded1e68a
 
 
 ### UE5開発
