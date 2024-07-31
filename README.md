@@ -112,7 +112,7 @@ https://devtuto.com/u/eternaleight/articles/ee336cded1e68a
 DevTutoを使いながらyoutubeにゲーム開発チュートリアルを投稿していく予定
 
 <div style="display: flex; justify-content: space-around;">
- <a href="https://youtu.be/oOwkPM91-j0?si=MrVhmUXw5oxEkfaq" target="_blank" rel=”noopener”>
+ <a href="https://www.youtube.com/@initialcommit0" target="_blank" rel=”noopener”>
   <img src="https://github.com/user-attachments/assets/87bd2f4b-f008-4a62-a823-a86ac79f52ea" alt="Developer Tutorial 開発者" width="400">
 </div>
 
