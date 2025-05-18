@@ -6,14 +6,14 @@
 <a href="https://go.dev/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
 
-<a href="https://www.rust-lang.org/ja" target="_blank" rel=”noopener”> 
-<img src="https://github.com/user-attachments/assets/6adc7834-a9fa-4c02-8ce5-4ab86041d110" alt="rust" width="42" height="42" /></a>
-
 <a href="https://www.python.org/" target="_blank" rel=”noopener”> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="39" height="39"/></a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
+
+<a href="https://www.rust-lang.org/ja" target="_blank" rel=”noopener”> 
+<img src="https://github.com/user-attachments/assets/6adc7834-a9fa-4c02-8ce5-4ab86041d110" alt="rust" width="42" height="42" /></a>
 
 <a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
