@@ -12,9 +12,6 @@
 <a href="https://www.python.org/" target="_blank" rel=”noopener”> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="39" height="39"/></a>
 
-<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-<img src="" width="0" height="40"/></a> 
-
 <a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
 
