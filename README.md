@@ -7,7 +7,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="39" height="39"/></a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
+<img src="https://github.com/user-attachments/assets/443dd977-f779-458b-b9b2-0852d1003123" alt="postgrsql" width="43" height="40" /></a>
 
 <a href="https://www.rust-lang.org/ja" target="_blank" rel=”noopener”> 
 <img src="https://github.com/user-attachments/assets/6adc7834-a9fa-4c02-8ce5-4ab86041d110" alt="rust" width="42" height="42" /></a>&thinsp;
