@@ -18,9 +18,6 @@
 <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="55" height="37" /></a>
 
-<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-<img src="" width="0" height="40"/></a> 
-
 <a href="https://www.prisma.io" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/ub0CMwB.png" alt="prisma" width="33" height="38" /></a>
 
