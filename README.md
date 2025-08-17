@@ -154,13 +154,13 @@ CDN:
 
 バックエンド:
 
-\- Go (Gin, Gorm), Cloudflare Workers
+\- Go, Gin, Sqlc, Atlas, Cloudflare Workers
 
 デプロイ: Google Cloud Run
 
 データベース:
 
-\- Supabase (PostgreSQL)
+\- Supabase (PostgreSQL), Neon
 
 決済:
 
