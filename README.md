@@ -154,7 +154,7 @@ CDN:
 
 バックエンド:
 
-\- Go, Gin, Sqlc, Atlas, Cloudflare Workers
+\- Go, Gin, Sqlc, Cloudflare Workers
 
 デプロイ: Google Cloud Run
 
