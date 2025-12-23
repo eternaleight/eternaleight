@@ -43,7 +43,7 @@
 <img src="https://i.imgur.com/72g3zfk.png" alt="c++" width="43" height="36"/></a> -->
 
 <a href="https://neovim.io/" target="_blank" rel=”noopener”> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png?20150131093814" alt="neovim" width="30" height="40" /></a>
+<img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" alt="neovim" width="40" height="40" /></a>
 
 <a href="https://reactjs.org/" target="_blank" rel=”noopener”>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
