@@ -166,7 +166,7 @@ CDN:
 
 \- Stripe, Polar
 
-KVS, サーバーセッション, エッジストレージ:
+KVS, サーバーセッション:
 
 \- Cloudflare Workers KV
 
