@@ -154,19 +154,19 @@ CDN:
 
 バックエンド:
 
-\- Go, Gin, Gorm, Sqlc, Cloudflare Workers
+\- Rust, Go, Gin, Gorm, Sqlc, Cloudflare Workers
 
 デプロイ: Google Cloud Run
 
 データベース:
 
-\- Supabase (PostgreSQL), Neon
+\- Cloudflare D1, Supabase (PostgreSQL), Neon
 
 決済:
 
-\- Stripe
+\- Stripe, Polar
 
-サーバーセッション:
+KVS, サーバーセッション, エッジストレージ:
 
 \- Cloudflare Workers KV
 
@@ -180,7 +180,7 @@ CDN:
 
 画像配信, オブジェクトストレージ:
 
-\-  Cloudflare R2, Google Cloud Storage
+\- Cloudflare R2, Google Cloud Storage
 
 
 
