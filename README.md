@@ -1,86 +1,31 @@
 ### Skill & Tools
 
-<a href="https://go.dev/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40"/></a>&thinsp;
+<p align="center">
 
-<a href="https://www.python.org/" target="_blank" rel=”noopener”> 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="39" height="39"/></a>
+<a href="https://go.dev/" target="_blank" rel="noopener"><img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30"/></a>&thinsp;
+<a href="https://www.python.org/" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="39"/></a>&thinsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img src="https://github.com/user-attachments/assets/443dd977-f779-458b-b9b2-0852d1003123" alt="postgresql" width="41"/></a>&thinsp;
+<a href="https://www.rust-lang.org/ja" target="_blank" rel="noopener"><img src="https://github.com/user-attachments/assets/6adc7834-a9fa-4c02-8ce5-4ab86041d110" alt="rust" width="43"/></a>&thinsp;
+<a href="https://nodejs.org/ja/" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="62"/></a>&thinsp;
+<a href="https://www.mysql.com/jp/" target="_blank" rel="noopener"><img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="52" /></a>&thinsp;
+<a href="https://www.prisma.io" target="_blank" rel="noopener"><img src="https://i.imgur.com/ub0CMwB.png" alt="prisma" width="33"/></a>&thinsp;
+<a href="https://www.mongodb.com/ja-jp" target="_blank" rel="noopener"><img src="https://i.imgur.com/fbhehfw.png" alt="mongodb" width="40"/></a>&thinsp;
+<a href="https://www.typescriptlang.org" target="_blank" rel="noopener"><img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40"/></a>&thinsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>&thinsp;
+<a href="https://www.java.com" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/></a>&thinsp;
+<a href="https://neovim.io/" target="_blank" rel="noopener"><img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" alt="neovim" width="40"/></a>&thinsp;
+<a href="https://reactjs.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noopener"><img src="https://i.imgur.com/xRPAKSY.png" alt="nextjs" width="43"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="46"/></a>&thinsp;
+<a href="https://sass-lang.com/" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="scss" width="46"/></a>&thinsp;
+<a href="https://redux.js.org/" target="_blank" rel="noopener"><img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="43"/></a>&thinsp;&thinsp;
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener"><img src="https://i.imgur.com/yBz8I8z.png" alt="aws" width="32"/></a>&thinsp;&thinsp;
+<a href="https://www.docker.com/" target="_blank" rel="noopener"><img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="42"/></a>
+<a href="https://registry.terraform.io/" target="_blank" rel="noopener"><img src="https://i.imgur.com/y2azS7x.png" alt="terraform" width="40"/></a>&thinsp;
+<a href="https://www.cloudflare.com/" target="_blank" rel="noopener"><img src="https://i.imgur.com/LmqkD0F.png" alt="cloudflare" width="43"/></a>&thinsp;
+<a href="https://www.unrealengine.com/ja/unreal-engine-5" target="_blank" rel="noopener"><img src="https://i.imgur.com/ubpIVxz.png" alt="ue5" width="50"/></a>
 
-<a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
-<img src="https://github.com/user-attachments/assets/443dd977-f779-458b-b9b2-0852d1003123" alt="postgrsql" width="43" height="40" /></a>
-
-<a href="https://www.rust-lang.org/ja" target="_blank" rel=”noopener”> 
-<img src="https://github.com/user-attachments/assets/6adc7834-a9fa-4c02-8ce5-4ab86041d110" alt="rust" width="42" height="42" /></a>&thinsp;
-
-<a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
-
-<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="55" height="37" /></a>
-
-<a href="https://www.prisma.io" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/ub0CMwB.png" alt="prisma" width="33" height="38" /></a>
-
-<a href="https://www.mongodb.com/ja-jp" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/fbhehfw.png" alt="monogodb" width="40" height="40" /></a>
-
-<a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
-<img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-
-<a href="https://www.java.com" target="_blank" rel=”noopener”> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-
-<!--  <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="35" height="40"/></a>
- <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-<img src="" width="0" height="40"/></a>
- <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
-<img src="https://github.com/eternaleight/eternaleight/assets/96198088/2ec77d81-6dd3-4d75-acff-844b3b7cfd60" alt="cs" width="35" height="40"/>
- <a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://i.imgur.com/72g3zfk.png" alt="c++" width="43" height="36"/></a> -->
-
-<a href="https://neovim.io/" target="_blank" rel=”noopener”> 
-<img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" alt="neovim" width="40" height="40" /></a>
-
-<a href="https://reactjs.org/" target="_blank" rel=”noopener”>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-
-<a href="https://nextjs.org/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/xRPAKSY.png" alt="nextjs" width="41" height="41" /></a>
-
-<!-- <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/72g3zfk.png" alt="flutter" width="45" height="37" /></a> -->
- 
-<a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> 
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="40" height="40" /></a>
-
-<a href="https://sass-lang.com/" target="_blank" rel=”noopener”> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="scss" width="40" height="40" /></a>&thinsp;
-<a href="https://redux.js.org/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/LsDSB5L.png" alt="redux" width="41" height="38" /></a>&thinsp;
-<a href="https://aws.amazon.com/jp/s3/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/yBz8I8z.png" alt="docker" width="34" height="39" /></a>&thinsp;
-
-<a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
-
-<!-- <a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://imgur.com/26FImOK.png" alt="cplusplus" width="35" height="40"/></a>-->
-
-<a href="https://registry.terraform.io/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/y2azS7x.png" alt="terraform" width="41" height="41" /></a>
-
-<a href="https://www.cloudflare.com/ja-jp/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/LmqkD0F.png" alt="cloudflare" width="40" height="40" /></a>
-  
-<!-- <a href="https://stripe.com/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/6Xbrpc5.png" alt="cloudflare" width="66" height="38" /></a> -->
-
-<a href="https://www.unrealengine.com/ja/unreal-engine-5" target="_blank" rel=”noopener”>
-<img src="https://i.imgur.com/ubpIVxz.png" alt="ue5" width="50" height="40" /></a>
+</p>
 
 
 ### DevTuto（開発中 β版先行ユーザー登録可能 随時募集中 2024/07/26）
